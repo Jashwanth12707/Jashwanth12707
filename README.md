@@ -1,72 +1,53 @@
-# Jashwanth A
+<div align="center">
 
-### Understanding systems by building them.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:164E63&height=180&section=header&text=Jashwanth%20A&fontSize=48&fontColor=E5E7EB&fontAlignY=45" width="100%" alt="Jashwanth A"/>
 
-I'm a Computer Science undergraduate interested in understanding how software works beneath its abstractions.
+<p>
+  <samp>Computer Science · Systems Engineering · Backend Development</samp>
+</p>
 
-I enjoy exploring the mechanisms that make systems work — how operating systems manage resources, how memory is allocated, how networks communicate, and how backend services fit together.
-
-Rather than stopping at using an abstraction, I want to understand the engineering decisions and mechanisms behind it.
-
-My approach is simple: **study the fundamentals, build things, experiment, and understand why they work.**
+</div>
 
 ---
 
-### Areas of Exploration
+I'm interested in understanding how software works beneath its abstractions.
 
-**Systems Engineering**
+How does a shell execute a command? What happens when a request reaches a server? How does an operating system manage memory and processes?
 
-* Operating systems and Linux
-* Memory management and process execution
-* Systems programming in C and C++
-* Shells, command-line tools, and low-level abstractions
+These are the kinds of questions that draw me towards engineering.
 
-**Backend Engineering**
+I learn by building things, investigating how they work, and getting into the details that most interfaces hide.
 
-* API design and server architecture
-* Databases and data modeling
-* Concurrency, networking, and reliability
-* Understanding how applications behave under the hood
+## Projects
 
-**Engineering Through Projects**
+**JashShell**
 
-* Building software to explore technical concepts
-* Experimenting with implementation trade-offs
-* Learning through debugging and experimentation
-* Documenting what I discover along the way
+Exploring shell implementation, command execution, and process management.
 
----
+**JashServer**
 
-### Selected Projects
-
-*Projects that reflect how I learn, build, and explore engineering.*
-
-**jashshell**
-A shell implementation exploring command execution, process management, and the fundamentals of interacting with an operating system.
+Exploring server-side engineering and the fundamentals of networked software.
 
 **Memory Allocator**
-An exploration of how memory allocation works and how allocation strategies affect the use of memory.
+
+Investigating memory allocation and the mechanisms behind managing memory.
 
 **RoadWatch**
-A civic-tech platform exploring sensor data, backend systems, and anomaly detection.
 
-**F1 Race Intelligence System**
-A data-driven application combining motorsport data, backend services, and a web interface.
+A civic-tech platform built around road condition monitoring, sensor data, and anomaly detection.
+
+## Technologies
+
+`C` · `C++` · `Python` · `Linux` · `FastAPI` · `Flask` · `PostgreSQL` · `Docker`
+
+## What I'm exploring
+
+Operating systems, systems programming, networking, memory management, and backend architecture.
+
+I want to understand not just how to use a technology, but why it works the way it does, what happens when it fails, and what it takes to build it.
 
 ---
 
-### Technologies
-
-`C` · `C++` · `Python` · `Linux` · `Git` · `FastAPI` · `Flask` · `PostgreSQL`
-
-My tools will evolve. Understanding the systems behind them is the constant.
-
----
-
-### Current Philosophy
-
-I don't want to learn only how to use things.
-
-I want to understand how they work, why they were designed that way, where they break, and how they could be built differently.
-
-**Learn deeply. Build deliberately. Understand the details.**
+<div align="center">
+  <samp>Learn by building. Understand by investigating.</samp>
+</div>
